@@ -2,10 +2,7 @@
 
 <div align="center">
 
-[!0](https://opensource.org/licenses/MIT)
-[!1](https://www.python.org/)
-[!2](CONTRIBUTING.md)
-[!3](https://github.com/xiaocan808-gif/CampusKit_54/stargazers)
+**License:** MIT | **Python:** 3.8+ | **Contributions:** Welcome
 
 **一款专为大学生打造的轻量级开源校园工具集，让学业管理更轻松高效**
 
